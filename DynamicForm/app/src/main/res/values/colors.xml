@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#009688</color>
+    <color name="colorAccent">#747474</color>
+    <color name="colorAccentAnother">#FFD740</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#e7000000</color>
+    <color name="cardColor">#F5F5F5</color>
+    <color name="first_black">#202020</color>
+    <color name="second_black">#747474</color>
+    <color name="third_black">#9D9D9D</color>
+    <color name="fourth_black">#E2E2E2</color>
+</resources>
